@@ -1,0 +1,27 @@
+.ques{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.question{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.answer{
+    font-size: 1.05rem;
+}
+
+.company-name{
+    font-family: 'Barriecito', cursive;
+    font-size: 5em;
+}
+
+.heading{
+    font-family: 'Inconsolata', monospace;
+}
+
+.dark-theme{
+    background-color: black;
+    color: azure;
+}
